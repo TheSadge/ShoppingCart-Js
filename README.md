@@ -7,6 +7,7 @@
   <b>
     You Can Add - Remove Products <br>
     it will automatically Do the math for Total Price <br>
+    Open and Close the Cart by clicking on the Cart Header <br>
     i had no idea for the design so i made something Simple (;
   </b>
 </p>
